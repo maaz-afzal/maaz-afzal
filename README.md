@@ -48,12 +48,37 @@ Frontend Web Developer, skilled in **React.js**, **Tailwind CSS**, and modern **
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| 🌤️ **[Weather App](https://github.com/maaz-afzal/weather-app)** | Real-time weather by city — temp, humidity & wind speed | HTML · CSS · JS · OpenWeatherMap API | [🔗 Live](https://maaz-afzal.github.io/weather-app/) |
-| 🎵 **[Music Player](https://github.com/maaz-afzal/music-player)** | Browser-based player with full playback controls | HTML · CSS · JavaScript | [🔗 Live](https://maaz-afzal.github.io/music-player) |
-| ✅ **[Todo App](https://github.com/maaz-afzal/todo-app)** | Add, edit, delete & filter todos with localStorage | HTML · CSS · JavaScript | [🔗 Live](https://maaz-afzal.github.io/todo-app/) |
-| 🛒 **[Product Page](https://github.com/maaz-afzal/product-page)** | Responsive e-commerce product page with clean UI | HTML · CSS · JavaScript | [🔗 Live](https://maaz-afzal.github.io/product-page) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Live</th>
+  </tr>
+  <tr>
+    <td>🌤️ <b><a href="https://github.com/maaz-afzal/weather-app">Weather App</a></b></td>
+    <td>Real-time weather by city — temp, humidity & wind speed</td>
+    <td><a href="https://maaz-afzal.github.io/weather-app/">🔗 Live</a></td>
+  </tr>
+  <tr>
+    <td>🎵 <b><a href="https://github.com/maaz-afzal/music-player">Music Player</a></b></td>
+    <td>Browser-based player with full playback controls</td>
+    <td><a href="https://maaz-afzal.github.io/music-player">🔗 Live</a></td>
+  </tr>
+  <tr>
+    <td>✅ <b><a href="https://github.com/maaz-afzal/todo-app">Todo App</a></b></td>
+    <td>Add, edit, delete & filter todos with localStorage</td>
+    <td><a href="https://maaz-afzal.github.io/todo-app/">🔗 Live</a></td>
+  </tr>
+  <tr>
+    <td>🛒 <b><a href="https://github.com/maaz-afzal/product-page">Product Page</a></b></td>
+    <td>Responsive e-commerce product page with clean UI</td>
+    <td><a href="https://maaz-afzal.github.io/product-page">🔗 Live</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
