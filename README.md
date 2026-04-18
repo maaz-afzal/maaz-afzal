@@ -57,14 +57,14 @@ Frontend Web Developer, skilled in **React.js**, **Tailwind CSS**, and modern **
     <th>Live</th>
   </tr>
   <tr>
+    <td>🎵 <b><a href="https://github.com/maaz-afzal/portfolio-website">Personal Portfolio</a></b></td>
+    <td>My personal portfolio website built with React and TailwindCSS</td>
+    <td><a href="https://maaz-afzal.github.io/portfolio-website">🔗 Live</a></td>
+  </tr>
+  <tr>
     <td>🌤️ <b><a href="https://github.com/maaz-afzal/weather-app">Weather App</a></b></td>
     <td>Real-time weather by city — temp, humidity & wind speed</td>
     <td><a href="https://maaz-afzal.github.io/weather-app/">🔗 Live</a></td>
-  </tr>
-  <tr>
-    <td>🎵 <b><a href="https://github.com/maaz-afzal/music-player">Music Player</a></b></td>
-    <td>Browser-based player with full playback controls</td>
-    <td><a href="https://maaz-afzal.github.io/music-player">🔗 Live</a></td>
   </tr>
   <tr>
     <td>✅ <b><a href="https://github.com/maaz-afzal/todo-app">Todo App</a></b></td>
