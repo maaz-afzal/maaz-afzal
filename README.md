@@ -6,47 +6,63 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=maaz-afzal&label=Profile+Views&color=C8BE25&style=flat" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/maaz-afzal?label=Followers&style=flat&color=C8BE25" />
+[![Profile Views](https://komarev.com/ghpvc/?username=maaz-afzal&label=Views&color=C8BE25&style=flat)](https://github.com/maaz-afzal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazafzalkhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maazafzal.khattak007@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGZ0aXY3Z2hqN2lqZzV3cmN0ZDNzOHczcGFlaGU1dXRwdGRiZm84cSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/4Ttud7aRHpbx3uuFvk/giphy.gif" width="22" alt="about gif" /> <b>About Me</b>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJqYjUzdmFtM2k0eHgwem1mbnV6OGdobmw5d3MyeTUwMjlkNTM0aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="440"/>
 
-Frontend Web Developer, skilled in **React.js**, **Tailwind CSS**, and modern **JavaScript (ES6+)**. Focused on building responsive, high-performance, and user-friendly web applications with clean UI/UX and scalable component-based architecture. Open to freelance, internships, and junior frontend developer opportunities.
+Hi, I’m Maaz Afzal. I’m a Frontend Developer who works with React.js, Tailwind CSS, and modern JavaScript (ES6+). I create fast, responsive, and easy-to-use websites with clean designs and solid structure. I’m looking for entry-level frontend jobs, internships, and team projects.
 
-<br/>
+<br>
 
-- 🔭 **Current Focus:** React.js · Component-Based Architecture · API Integration
-- 💻 **Tech Stack:** HTML5 · CSS3 · JavaScript ES6+ · React.js · Tailwind CSS
-- 🌱 **Learning:** TypeScript · Next.js · REST APIs
-- 🛠️ **Tools:** Git · GitHub · VS Code · Postman · Figma
-- 🎯 **Goal:** Junior Frontend Developer role & real-world freelance projects
-- 💼 **Available for:** Freelance · Internships · Junior Frontend Roles
-- 📫 **Contact:** maazafzal.khattak007@gmail.com
+- **Focus**: React.js, building components, connecting APIs
+- **Tech Skills**: HTML5, CSS3, JavaScript ES6+, React.js, Tailwind CSS
+- **Learning Now**: NodeJS, ExpressJS, MongoDB, Typescipt, NextJS
+- **Tools I Use**: Git, GitHub, VS Code, Postman, Figma
+- **Goal**: Junior Frontend Role + freelance work
+- **Open To**: Full-time, internships, freelance (remote)
+- **Contact**: maazafzal.khattak.khattak007@gmail.com
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
+
+### Frontend
 
 <div align="center">
-<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,postman)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=6)](https://skillicons.dev)
 
-<br/>
+</div>
+
+### Backend & APIs
+
+<div align="center">
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6)](https://skillicons.dev)
+
+</div>
+
+### Tools
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman&perline=6)](https://skillicons.dev)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhZWl4MHg3MmIzNHZhNjFoZ2VvaDlid2R2ZjY2aWt0dzNzYzA3bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="22" alt="project gif"/> <b>Projects</b>
 
 <div align="center">
 
@@ -62,14 +78,19 @@ Frontend Web Developer, skilled in **React.js**, **Tailwind CSS**, and modern **
     <td><a href="https://maaz-afzal.github.io/portfolio-website">🔗 Live</a></td>
   </tr>
   <tr>
+    <td>✅ <b><a href="https://github.com/maaz-afzal/todo-app">Notes App</a></b></td>
+    <td>CRUD system with search, dark mode, and responsive layout</td>
+    <td><a href="https://maaz-afzal.github.io/notes-app/">🔗 Live</a></td>
+  </tr>
+  <tr>
+    <td>✅ <b><a href="https://github.com/maaz-afzal/recipe-finder-app">Recipe Finder App</a></b></td>
+    <td>Recipe search with live API data, favorites, and responsive UI</td>
+    <td><a href="https://maaz-afzal.github.io/recipe-finder-app/">🔗 Live</a></td>
+  </tr>
+  <tr>
     <td>🌤️ <b><a href="https://github.com/maaz-afzal/weather-app">Weather App</a></b></td>
     <td>Real-time weather by city — temp, humidity & wind speed</td>
     <td><a href="https://maaz-afzal.github.io/weather-app/">🔗 Live</a></td>
-  </tr>
-  <tr>
-    <td>✅ <b><a href="https://github.com/maaz-afzal/todo-app">Todo App</a></b></td>
-    <td>Add, edit, delete & filter todos with localStorage</td>
-    <td><a href="https://maaz-afzal.github.io/todo-app/">🔗 Live</a></td>
   </tr>
   <tr>
     <td>🛒 <b><a href="https://github.com/maaz-afzal/product-page">Product Page</a></b></td>
@@ -82,62 +103,43 @@ Frontend Web Developer, skilled in **React.js**, **Tailwind CSS**, and modern **
 
 ---
 
-## 🌐 Connect With Me
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDg2bG4wNjluOWRudGQwcHN0MnM0MHI4eTlvdHVqb2p2aDVtOG9kNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="22" alt="sunny gif"/> <b>GitHub Stats</b>
 
 <div align="center">
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazafzalkhan)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaz-afzal)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazafzal.khattak007@gmail.com)
-
-<br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&card_width=450">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=ffffff&card_width=450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=ffffff&card_width=450" height="165">
+  </picture>
+  
+  <img src="https://streak-stats.demolab.com?user=maaz-afzal&theme=radical&hide_border=true" height="165">
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maaz-afzal&theme=material-palenight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaz-afzal&theme=react-dark&bg_color=0D1117&color=C8BE25&line=C8BE25&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<br/>
-
-![Repos](https://img.shields.io/badge/Public%20Repos-5-C8BE25?style=for-the-badge&logo=github)
-&nbsp;
-![Focus](https://img.shields.io/badge/Focus-Frontend%20Dev-C8BE25?style=for-the-badge&logo=react)
-&nbsp;
-![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20JS-C8BE25?style=for-the-badge&logo=javascript)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
-
-<br/>
-</div>
-
----
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z5a2JzcjcydGx4ZjF1Y2RoZG40amkyc2tseGFkOXJscWI1c3poZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lQ6CBvgBn7QEbb0Va8/giphy.gif" width="22" alt="phone gif"/> <b>Contact Us</b>
 
 <div align="center">
 
-💡 *"First, solve the problem. Then, write the code."*
+<a href="mailto:maazafzal.khattak.khattak007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
 
-<br/>
+<a href="https://linkedin.com/in/maazafzalkhan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
 
-**Frontend Web Developer · React.js · Tailwind CSS · JavaScript · Pakistan · Open to Work**
+<a href="https://github.com/maaz-afzal">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Availability-Full--time-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Work-Remote-3b82f6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Junior%20Frontend-f59e0b?style=for-the-badge" />
 
 </div>
