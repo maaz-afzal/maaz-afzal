@@ -64,54 +64,42 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhZWl4MHg3MmIzNHZhNjFoZ2VvaDlid2R2ZjY2aWt0dzNzYzA3bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="22"/> Projects
 
-<div align="center">
-
 <table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/chattrix">Chattrix</a></h3>
-      <p>Real-time full-stack chat app with Socket.IO, JWT auth, last seen tracking, and live message previews.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.IO</code> <code>Redux</code></p>
-      <p>🔗 Live (Comming soon!)</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/cartify">Cartify</a></h3>
-      <p>Full MERN e-commerce platform with auth, cart, product management, and Vercel deployment.</p>
-      <p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind</code></p>
-      <p><a href="https://cartify-frontend-ten.vercel.app/">🔗 Live</a></p>
-    </td>
-  </tr>
-  <tr>
-  <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/cartly">Cartly</a></h3>
-      <p>Cartly is a React and Tailwind CSS e-commerce UI with cart, favorites, search and dark mode.</p>
-      <p><code>React</code> <code>Tailwind CSS</code> <code>React Router</code> <code>Vite</code></p>
-      <p><a href="https://cartly-zeta.vercel.app/">🔗 Live</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/portfolio">Portfolio Website</a></h3>
-      <p>Personal portfolio built with React, Tailwind CSS & Framer Motion. Deployed on GitHub Pages.</p>
-      <p><code>React</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Vite</code></p>
-      <p><a href="https://maaz-afzal.github.io/portfolio">🔗 Live</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/recipe-finder-app">Recipe Finder</a></h3>
-      <p>Recipe search app with live API data, favorites feature, and responsive UI.</p>
-      <p><code>React</code> <code>REST API</code> <code>Tailwind CSS</code> <code>TheMealDB API</code></p>
-      <p><a href="https://maaz-afzal.github.io/recipe-finder-app/">🔗 Live</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/maaz-afzal/notes-app">Notes App</a></h3>
-      <p>CRUD notes app with search functionality, dark mode toggle, and fully responsive layout.</p>
-      <p><code>React</code> <code>Tailwind CSS</code> <code>LocalStorage</code></p>
-      <p><a href="https://maaz-afzal.github.io/notes-app/">🔗 Live</a></p>
-    </td>
-  </tr>
-</table>
+<tr>
+<td valign="top" width="50%">
 
-</div>
+## Chattrix
+
+Real-time full-stack chat app with Socket.IO, JWT auth, last seen tracking, and live message previews.
+
+**Tech Stacks**
+- React
+- Node.js
+- MongoDB
+- Socket.IO
+- Redux
+
+🔗 Coming Soon
+
+</td>
+
+<td valign="top" width="50%">
+
+## Cartify
+
+Full MERN e-commerce platform with auth, cart, product management, and Vercel deployment.
+
+**Tech Stack**
+- React
+- Express
+- MongoDB
+- Tailwind
+
+<a href="https://cartify-frontend-ten.vercel.app/">🔗 Live Demo</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
