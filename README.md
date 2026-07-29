@@ -118,27 +118,23 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z5a2JzcjcydGx4ZjF1Y2RoZG40amkyc2tseGFkOXJscWI1c3poZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="22"/> GitHub Stats
 
 <table align="center">
-<tr>
-<td>
+  <!-- Streak Stats -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-afzal&theme=radical&hide_border=true&background=0d1117&ring=C8BE25&fire=C8BE25&currStreakLabel=C8BE25" />
+    </td>
+  </tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&icon_color=C8BE25&text_color=ffffff" />
+  <!-- Stats + Top Languages -->
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&icon_color=C8BE25&text_color=ffffff" />
+    </td>
 
-</td>
-
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-afzal&theme=radical&hide_border=true&background=0d1117&ring=C8BE25&fire=C8BE25&currStreakLabel=C8BE25" />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&text_color=ffffff" />
-
-</td>
-</tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&text_color=ffffff" />
+    </td>
+  </tr>
 </table>
 
 ---
