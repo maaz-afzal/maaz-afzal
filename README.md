@@ -122,14 +122,25 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 </p>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&icon_color=C8BE25&text_color=ffffff" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&text_color=ffffff" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maaz-afzal&theme=tokyonight"/>
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maaz-afzal&theme=tokyonight"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maaz-afzal&theme=tokyonight"/>
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maaz-afzal&theme=tokyonight&utcOffset=5"/>
+</td>
+</tr>
 </table>
 
 ---
