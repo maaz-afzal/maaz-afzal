@@ -1,20 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8BE25&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
+  
 <h1 align="center">Hey, I'm Maaz Afzal 👋</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=C8BE25&center=true&vCenter=true&width=700&height=60&lines=Backend+%2B+Full-Stack+Developer+(MERN);MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Building+Scalable+%26+Real-World+Web+Apps;Open+to+Opportunities+%E2%80%94+Remote+%7C+On-Site" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=maaz-afzal&label=Profile+Views&color=C8BE25&style=flat-square)](https://github.com/maaz-afzal)
-&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=C8BE25&center=true&vCenter=true&width=700&height=60&lines=Backend+%26+Full-Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+New+Opportunities" alt="Typing SVG" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazafzalkhan)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maazafzal.khattak007@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8BE25?style=flat-square&logo=vercel&logoColor=black)](https://maaz-afzal.github.io/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8BE25?style=flat-square&logo=vercel&logoColor=black)](https://maaz-afzal.github.io/portfolio)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maaz-afzal)
 
@@ -24,12 +22,22 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJqYjUzdmFtM2k0eHgwem1mbnV6OGdobmw5d3MyeTUwMjlkNTM0aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="22"/> About Me
 
-<div align="center">
-  
-<img width="1280" height="720" alt="ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/42d2061f-7d51-4fc1-bd28-db5ea1c3482d" />
+<img align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="380" alt="coding gif"/>
 
+I'm a **Backend & Full-Stack Developer** focused on the MERN stack and currently pursuing a **BS Computer Science** degree at **UET Peshawar, Pakistan**.
 
-</div>
+I enjoy building scalable web applications, REST APIs, databases, and clean, responsive user interfaces.
+
+<br/>
+
+- Building **Chattrix**, a real-time chat application.
+- Built **Cartify**, a full-stack MERN e-commerce platform.
+- Learning **TypeScript, Next.js, Docker, and AWS**.
+- Working with **MongoDB, Express.js, React, and Node.js**.
+- Open to **Internships, Full-Time, and Remote** opportunities.
+- Contact: **maazafzal.khattak007@gmail.com**
+
+<br clear="right"/>
 
 
 ---
@@ -38,8 +46,17 @@
 
 <div align="center">
 
-<img width="776" height="474" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f3bac67b-835a-40b4-917e-7402e344a681" />
+### Core
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,redux" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+
+### Learning
+<img src="https://skillicons.dev/icons?i=ts,nextjs,docker,aws" />
 
 </div>
 
@@ -55,7 +72,7 @@
       <h3><a href="https://github.com/maaz-afzal/chattrix">Chattrix</a></h3>
       <p>Real-time full-stack chat app with Socket.IO, JWT auth, last seen tracking, and live message previews.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.IO</code> <code>Redux</code></p>
-      <p>🔗 WIP</p>
+      <p>🔗 Live (Comming soon!)</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/maaz-afzal/cartify">Cartify</a></h3>
@@ -100,19 +117,29 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z5a2JzcjcydGx4ZjF1Y2RoZG40amkyc2tseGFkOXJscWI1c3poZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="22"/> GitHub Stats
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&icon_color=C8BE25&text_color=ffffff" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=maaz-afzal&theme=radical&hide_border=true&background=0d1117&ring=C8BE25&fire=C8BE25&currStreakLabel=C8BE25" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&icon_color=C8BE25&text_color=ffffff" />
 
-</div>
+</td>
 
-<div align="center">
+<td>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&text_color=ffffff&card_width=450" height="150" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-afzal&theme=radical&hide_border=true&background=0d1117&ring=C8BE25&fire=C8BE25&currStreakLabel=C8BE25" />
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-afzal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C8BE25&text_color=ffffff" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,15 +172,5 @@
 <img src="https://img.shields.io/badge/Available%20For-Internships-f59e0b?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20On--Site-C8BE25?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8BE25&height=100&section=footer" width="100%"/>
-
-*Built with focus. Shipped with purpose.*
 
 </div>
