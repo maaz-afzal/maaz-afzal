@@ -50,13 +50,13 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux,nextjs,ts" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 
 ### Learning
-<img src="https://skillicons.dev/icons?i=ts,nextjs,docker,aws" />
+<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,aws" />
 
 </div>
 
