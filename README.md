@@ -79,7 +79,7 @@ Real-time full-stack chat app with Socket.IO, JWT auth, last seen tracking, and 
 - Socket.IO
 - Redux
 
-🔗 Coming Soon
+<a href="https://chattrix-frontend-ecru.vercel.app/">🔗 Live Demo</a>
 
 </td>
 
