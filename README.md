@@ -24,18 +24,19 @@
 
 <img align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="380" alt="coding gif"/>
 
-I'm a **Backend & Full-Stack Developer** focused on the MERN stack and currently pursuing a **BS Computer Science** degree at **UET Peshawar, Pakistan**.
+I'm a **Backend & Full-Stack Developer** pursuing a **BS Computer Science** degree at **UET Peshawar, Pakistan**.
 
-I enjoy building scalable web applications, REST APIs, databases, and clean, responsive user interfaces.
+I build full-stack web applications, REST APIs, and database-driven systems using modern web technologies.
 
-<br/>
-
-- Building **Chattrix**, a real-time chat application.
+- Built **Chattrix**, a real-time chat application.
 - Built **Cartify**, a full-stack MERN e-commerce platform.
-- Learning **TypeScript, Next.js, Docker, and AWS**.
-- Working with **MongoDB, Express.js, React, and Node.js**.
-- Open to **Internships, Full-Time, and Remote** opportunities.
-- Contact: **maazafzal.khattak007@gmail.com**
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL
+- **Currently learning:** Docker, CI/CD, AWS, and Redis
+- Open to internship, full-time, and remote opportunities.
+
+Contact: **maazafzal.khattak007@gmail.com**
 
 <br clear="right"/>
 
@@ -46,17 +47,17 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 
 <div align="center">
 
-### Core
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 
-### Learning
-<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,aws" />
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,aws,redis" />
 
 </div>
 
@@ -68,34 +69,36 @@ I enjoy building scalable web applications, REST APIs, databases, and clean, res
 <tr>
 <td valign="top" width="50%">
 
-## Chattrix
+<h3 align="center">Chattrix</h3>
 
-Real-time full-stack chat app with Socket.IO, JWT auth, last seen tracking, and live message previews.
+<p align="center">
+A real-time chat application with live messaging, JWT authentication, last-seen tracking, and message previews.
+</p>
 
-**Tech Stacks**
-- React
-- Node.js
-- MongoDB
-- Socket.IO
-- Redux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,redux" />
+</p>
 
-<a href="https://chattrix-frontend-ecru.vercel.app/">🔗 Live Demo</a>
+<p align="center">
+<a href="https://chattrix-frontend-ecru.vercel.app/"><strong>Live Demo</strong></a>
+</p>
 
 </td>
-
 <td valign="top" width="50%">
 
-## Cartify
+<h3 align="center">Cartify</h3>
 
-Full MERN e-commerce platform with auth, cart, product management, and Vercel deployment.
+<p align="center">
+A full-stack MERN e-commerce platform featuring authentication, shopping cart functionality, and product management.
+</p>
 
-**Tech Stack**
-- React
-- Express
-- MongoDB
-- Tailwind
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+</p>
 
-<a href="https://cartify-frontend-ten.vercel.app/">🔗 Live Demo</a>
+<p align="center">
+<a href="https://cartify-frontend-ten.vercel.app/"><strong>Live Demo</strong></a>
+</p>
 
 </td>
 </tr>
