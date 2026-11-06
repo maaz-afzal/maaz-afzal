@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJqYjUzdmFtM2k0eHgwem1mbnV6OGdobmw5d3MyeTUwMjlkNTM0aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="22"/> About Me
+## About Me
 
 <img align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="380" alt="coding gif"/>
 
@@ -43,7 +43,7 @@ Contact: **maazafzal.khattak007@gmail.com**
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q1eWJhNXR5ZXdwdWo0ZnN6NXN5aGptMGhsYzNtZmJ5MHV6ZnlhNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="22"/> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Contact: **maazafzal.khattak007@gmail.com**
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhZWl4MHg3MmIzNHZhNjFoZ2VvaDlid2R2ZjY2aWt0dzNzYzA3bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="22"/> Projects
+## Projects
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ A full-stack MERN e-commerce platform featuring authentication, shopping cart fu
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z5a2JzcjcydGx4ZjF1Y2RoZG40amkyc2tseGFkOXJscWI1c3poZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="22"/> GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-afzal&border_radius=20&theme=radical&background=0d1117&ring=C8BE25&fire=C8BE25&currStreakLabel=C8BE25" />
@@ -136,7 +136,7 @@ A full-stack MERN e-commerce platform featuring authentication, shopping cart fu
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZlZnVxd3dkNHdwMGQ1NThieXVkbGlmMHdpYXZtbHN3eWpwemxwNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lQ6CBvgBn7QEbb0Va8/giphy.gif" width="22"/> Contact
+## Contact
 
 <div align="center">
 
