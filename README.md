@@ -98,12 +98,11 @@ A full-stack MERN e-commerce platform featuring authentication, shopping cart fu
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-[<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maaz-afzal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Statistics"/>
-](https://streak-stats.demolab.com?user=maaz-afzal&theme=dark&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maaz-afzal&theme=highcontrast&border_radius=18&card_width=600&card_height=220" alt="GitHub Streak" /></a>
 
 </div>
 
